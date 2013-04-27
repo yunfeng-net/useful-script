@@ -93,7 +93,7 @@ n = 0
 m = 0
 year = 2013
 stat = {"knowledge":0, "spirit":0, "society":0}
-for i in range(3):
+for i in range(4):
     start = 0
     stat = {"knowledge":0, "spirit":0, "society":0}
     while True:
